@@ -1,7 +1,7 @@
 +++
 author = "Michał Kardyś"
 title = "You cannot learn this"
-date = "2020-09-23"
+date = "2021-09-23"
 tags = ["learning"]
 categories = ["learning", "knowledge"]
 
@@ -10,6 +10,7 @@ categories = ["learning", "knowledge"]
 * Why?
 * What's the thing you cannot learn?
 * How to overcome it?
+<!--more-->
 
 ## There are *unknown unknowns*; how to deal with these?
 
