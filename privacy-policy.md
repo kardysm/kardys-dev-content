@@ -1,6 +1,6 @@
 ---
 title: 'Privacy Policy for kardys.dev and newsletters'
-simpleShare: true
+date = "2023-03-29"
 ---
 
 Hey there!
